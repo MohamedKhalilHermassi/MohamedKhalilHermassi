@@ -5,7 +5,7 @@
 <h4 align="left">I'm a Fullstack/Software Engineer.<br>Worked/ing on many different projects such as mobile apps, (many) web apps using diffrent frameworks and libraries.<br>Worked on projects using microservices architecture and devops. (I really had fun working on those projects).</h4>
 
 
-<h5>I really like astronomy and I spend a lot of time star gazing.</h5>
+<h5>I really like astronomy and I spend a lot of time star gazing...</h5>
 
 <div align="center">
   <img height="200" src="https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-cover-desktop-wallpaper.gif"  />
