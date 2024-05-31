@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a Fullstack/Software Engineer.<br>Worked/ing on many different projects such as mobile apps, (many) web apps using diffrent frameworks and libraries.<br>Worked on projects using microservices architecture and devops. (I really had fun working on those projects).</h4>
+<h4 align="left">I'm a Fullstack/Software Engineer.<br>Worked/ing on many different projects such as mobile apps, (many) web apps using diffrent frameworks and libraries.<br>Worked on projects using microservices architecture and devops. (I really had fun working on those projects, so I decided to create more personal proejects using these types of approaches).</h4>
 
 
 <h5>I really like astronomy and I spend a lot of time star gazing.<h5>
