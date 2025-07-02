@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://buymeacoffee.com/mohamedkhalilhermassi" target="_blank">
-    <img src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" width="52" height="40" alt="twitter logo"  />
+    <img src="https://miro.medium.com/v2/da:true/resize:fit:480/0*X9tbxUUloPowCJnn.gif" width="52" height="52" alt="twitter logo"  />
   </a>
 </div>
 
